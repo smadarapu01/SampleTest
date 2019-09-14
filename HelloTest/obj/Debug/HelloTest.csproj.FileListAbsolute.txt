@@ -1,0 +1,16 @@
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\HelloTest.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\HelloTest.pdb
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Hello.exe
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Hello.pdb
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Hello.exe.config
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\obj\Debug\HelloTest.csprojResolveAssemblyReference.cache
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\obj\Debug\HelloTest.csproj.CoreCompileInputs.cache
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\obj\Debug\HelloTest.dll
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\TestProject\HelloTest\obj\Debug\HelloTest.pdb
